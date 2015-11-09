@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Imc</string>
+    <string name="action_settings">Settings</string>
+    <string name="total">Resultado</string>
+    <string name="Resultado">calculo do imc.</string>
+    <string name="peso1">Abaixo do peso</string>
+    <string name="peso2">peso ideal</string>
+    <string name="peso3">relativamente acima do peso</string>
+    <string name="peso4">Obesidade Nivel incial</string>
+    <string name="peso5">Obesidade Nivel médio</string>
+    <string name="peso6">Obesidade Nivel incial (Morbida e perigosa, Cuidado)</string>
+
+</resources>
